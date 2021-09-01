@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "425998187091",
+    "project_id": "flutter-chat-udemy-344f8",
+    "storage_bucket": "flutter-chat-udemy-344f8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:425998187091:android:6ba84ba0b7a3f7b4f864a6",
+        "android_client_info": {
+          "package_name": "br.com.mariotti.chat_online"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "425998187091-hsms1ojddbo5evbhbpvl4vum4u1h6mj2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.com.mariotti.chat_online",
+            "certificate_hash": "10c0bd8834154c0227f710660e77a29b3f9b93fc"
+          }
+        },
+        {
+          "client_id": "425998187091-au94tslpdd52m98qk81em6ujj1hp5817.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmTdwsfIBp4lu_Dz2UiNgQtOKQS6RJqMM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "425998187091-au94tslpdd52m98qk81em6ujj1hp5817.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
